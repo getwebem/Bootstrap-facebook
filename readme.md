@@ -7,22 +7,7 @@
  - Run :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`  
+   - [View Demo](http://getwebem.com/facebook-clone/)  
  <br/><br/>
-![pic1](https://raw.githubusercontent.com/getwebem/README/master/facebook-clone/Screen%20Shot%202017-03-13%20at%2023.38.17.png)
-<br/><br/>
-
-<br/><br/>
-![pic2](https://raw.githubusercontent.com/getwebem/README/master/facebook-clone/Screen%20Shot%202017-03-13%20at%2023.37.52.png)
-<br/><br/>
-
-<br/><br/>
-![pic3](https://raw.githubusercontent.com/getwebem/README/master/facebook-clone/Screen%20Shot%202017-03-13%20at%2023.38.01.png)
-<br/><br/>
-
-<br/><br/>
-![pic4](https://raw.githubusercontent.com/getwebem/README/master/facebook-clone/Screen%20Shot%202017-03-13%20at%2023.38.12.png)
-<br/><br/>
-
-<br/><br/>
-![pic5](https://raw.githubusercontent.com/getwebem/README/master/facebook-clone/Screen%20Shot%202017-03-13%20at%2023.38.06.png)
+![pic1](https://raw.githubusercontent.com/getwebem/README/master/facebook-clone/Screen%20Shot%202017-08-07%20at%2015.06.20.png)
 <br/><br/>
